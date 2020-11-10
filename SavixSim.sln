@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavixSim", "SavixSim\SavixSim.csproj", "{D4450F43-60E9-4430-838E-84C180AB5FCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argos.Base", "..\Argos\Argos.Base\Argos.Base.csproj", "{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Debug|x86.Build.0 = Debug|Any CPU
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Release|x86.ActiveCfg = Release|Any CPU
+		{D4450F43-60E9-4430-838E-84C180AB5FCB}.Release|x86.Build.0 = Release|Any CPU
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Debug|x86.ActiveCfg = Debug|x86
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Debug|x86.Build.0 = Debug|x86
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Release|x86.ActiveCfg = Release|x86
+		{F46FAD50-7AE6-4D99-8F8E-1149C23AB2D1}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {996FC878-A71B-4CD4-8835-6DAE202A5B29}
+	EndGlobalSection
+EndGlobal
